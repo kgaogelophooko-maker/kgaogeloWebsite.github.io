@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fafafa;
+}
+
+header {
+  background-color: #007acc;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 0.5em;
+  text-decoration: none;
+}
+
+main {
+  padding: 2em;
+  max-width: 800px;
+  margin: auto;
+}
+
+footer {
+  background-color: #f2f2f2;
+  text-align: center;
+  padding: 1em;
+  margin-top: 2em;
+}
